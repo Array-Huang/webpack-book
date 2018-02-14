@@ -1,0 +1,11 @@
+{
+  "author": "Array-Huang <https://segmentfault.com/u/array_huang>",
+  "title": "多页为王：webpack多页应用架构专题系列",
+  "description": "本系列文章主要介绍如何用webpack这一当前流行的构建工具来设计一个多页应用的架构。",
+  "generator": "site",
+  "links": {
+    "sidebar": {
+      "示例项目webpack-seed": "https://github.com/Array-Huang/webpack-seed"
+    }
+  }
+}
